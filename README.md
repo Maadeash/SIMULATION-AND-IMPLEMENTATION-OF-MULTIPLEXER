@@ -87,7 +87,7 @@ endmodule
 ```
 ## Simulated Output Gate Level Modelling
 
-![image](https://github.com/user-attachments/assets/4b43827d-2547-40eb-a204-ee21ba616576)
+<img width="1616" height="906" alt="image" src="https://github.com/user-attachments/assets/07b6dc76-dc6e-489f-b993-9c1988074788" />
 
 
 ### 4:1 MUX Data Flow Implementation
@@ -109,7 +109,8 @@ endmodule
 ```
 ## Simulated Output Data Flow Modelling
 
-![image](https://github.com/user-attachments/assets/7d84acc9-cf28-4394-9226-2a262e979b06)
+<img width="1615" height="867" alt="image" src="https://github.com/user-attachments/assets/1edc3230-e5b5-44c7-bfa1-d123aa63075f" />
+
 
 
 ### 4:1 MUX Behavioral Implementation
@@ -136,7 +137,8 @@ endmodule
 ```
 ## Simulated Output Behavioral Modelling
 
-![image](https://github.com/user-attachments/assets/74f024b8-1bbd-4d00-9cb7-93d3ec6e1837)
+<img width="1615" height="866" alt="image" src="https://github.com/user-attachments/assets/7e9fe934-3c7a-4628-9328-e007a650fcb4" />
+
 
 
 
@@ -174,7 +176,8 @@ endmodule
 ```
 ## Simulated Output Structural Modelling
 
-![image](https://github.com/user-attachments/assets/ed7aaef9-696e-4ef9-a8f8-3cd378f82ace)
+<img width="1621" height="867" alt="image" src="https://github.com/user-attachments/assets/f11a312e-0efd-4e7e-a4bc-5502ba93dfdb" />
+
 
 
 ### Testbench Implementation
